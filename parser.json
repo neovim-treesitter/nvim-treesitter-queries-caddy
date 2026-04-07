@@ -1,9 +1,9 @@
 {
+  "generate_from_json": null,
   "url": "https://github.com/opa-oz/tree-sitter-caddy",
   "semver": false,
   "parser_version": "2686186edb61be47960431c93a204fb249681360",
   "location": null,
   "lang": "caddy",
-  "generate": null,
-  "generate_from_json": null
+  "generate": null
 }
